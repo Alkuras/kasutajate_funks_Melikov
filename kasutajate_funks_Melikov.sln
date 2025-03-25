@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kasutajate_funks_Melikov", "kasutajate_funks_Melikov.pyproj", "{DAB7C4D1-E5D4-47C9-B179-597172234D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB7C4D1-E5D4-47C9-B179-597172234D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB7C4D1-E5D4-47C9-B179-597172234D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29BAD235-CE2F-468A-8F7C-DB160B7E3E7A}
+	EndGlobalSection
+EndGlobal
