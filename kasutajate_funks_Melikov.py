@@ -125,4 +125,15 @@ def date(day:int,month:int,year:int)->bool:
                     v=True
        
     return v
+
+def average(arvud:list)->any:
+    """Võtab argumendiks järjendi arvudega ja tagastab nende aritmeetilise keskmise.
+    :param list arvud: arvud listis
+    :rtype: any
+    """
+    if len(arvud)==0:
+        return None
+    else:
+        summ=sum(arvud)/len(arvud)
+        return summ 
                 
